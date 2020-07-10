@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Novella (she/her). I like to write frontend code, usually in Vue, help people new to coding (for fun or for profit), and make up silly lyrics to songs. Find me around the web on [Twitter](https://twitter.com/novelladev).
 
 <!--
 **novellac/novellac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
