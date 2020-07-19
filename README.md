@@ -1,5 +1,8 @@
-### Hi there 👋
-I'm Novella (she/her). I like to write frontend code, usually in Vue, help people new to coding (for fun or for profit), and make up silly lyrics to songs. Find me around the web on [Twitter](https://twitter.com/novelladev).
+### Welcome!
+Hi I'm Novella (she/her). I'm a frontend developer working mostly with Vue, Gridsome, and plain Javascript. 
+- 🌴 In my spare time I like to help folks learn basic computer skills
+- 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
+- 🤔 I really hope I make this page more interesting
 
 <!--
 **novellac/novellac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
