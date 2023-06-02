@@ -1,5 +1,5 @@
 ### Welcome!
-Hi I'm Novella (she/her). I'm a frontend developer working mostly with Vue, Gridsome, and plain Javascript. 
+Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, sparkly interfaces accessible to all! I work mostly with Vue and plain Javascript. 
 - 🌴 In my spare time I like to help folks learn basic computer skills
 - 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
 - 🤔 I really hope I make this page more interesting
