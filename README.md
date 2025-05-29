@@ -3,7 +3,7 @@ Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, spark
 - 🌴 In my spare time I like to help folks learn basic computer skills
 - 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
 - 🤔 I really hope I make this page more interesting
-- 🐣 See [my resume](https://novellac-resume.netlify.app/)
+- 🐣 See [my resume](https://shiny.computer)
 
 <!--
 **novellac/novellac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
