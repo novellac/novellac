@@ -1,12 +1,16 @@
-### Welcome!
-Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, sparkly interfaces accessible to all! I work mostly with Vue and plain Javascript. 
+# Welcome!
+Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, sparkly interfaces accessible to all! I work mostly with Vue and plain Javascript.
+
+## A little about me
 - 🌴 In my spare time I like to help folks learn basic computer skills
 - 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
 - 🤔 I really hope I make this page more interesting
 - 🐣 See [my resume](https://shiny.computer)
 
 ## Where did my (keyboard) focus go? (Lightning talk, June 4, 2025)
+A lightning talk for anyone who's ever struggled with which form field they're typing into. Learn what keyboard focus is, when and why to handle it (and when you don't need to), and who it benefits.
 - [Slides](https://shiny.computer/gusto) (Google slides)
+- [Description and speaker bio](https://shiny.computer/gusto-bio-descrip) (Google docs)
 
 <!--
 **novellac/novellac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
