@@ -5,6 +5,9 @@ Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, spark
 - 🤔 I really hope I make this page more interesting
 - 🐣 See [my resume](https://shiny.computer)
 
+## Where did my (keyboard) focus go? (Lightning talk, June 4, 2025)
+- [Slides](https://shiny.computer/gusto) (Google slides)
+
 <!--
 **novellac/novellac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
