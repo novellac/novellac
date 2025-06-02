@@ -6,6 +6,7 @@ Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, spark
 - 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
 - 🤔 I really hope I make this page more interesting
 - 🐣 See [my resume](https://shiny.computer)
+- 📫 DM me at [novelladev.bsky.social](novelladev.bsky.social)
 
 ## Where did my (keyboard) focus go? (Lightning talk, June 4, 2025)
 A lightning talk for anyone who's ever struggled with which form field they're typing into. Learn what keyboard focus is, when and why to handle it (and when you don't need to), and who it benefits.
