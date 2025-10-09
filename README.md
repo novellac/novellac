@@ -2,10 +2,10 @@
 Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, sparkly interfaces accessible to all! I work mostly with Vue and plain Javascript.
 
 ## A little about me
-- 🌴 In my spare time I like to help folks learn basic computer skills
-- 💬 Ask me about project ideas. I have more ideas than I could reasonably use :)
+- 💼 See [my resume](https://shiny.computer)
+- 🌴 In my spare time I help folks learn basic computer skills and mentor new devs
+- 🐣 Ask me about project ideas. I have more ideas than I could reasonably use :)
 - 🐠 Need a moment? Watch [this lil fish tank](https://css-fish-tank.netlify.app/) I made to learn CSS Grid!
-- 🐣 See [my resume](https://shiny.computer)
 - 📫 DM me at [novelladev.bsky.social](novelladev.bsky.social)
 
 ## Where did my (keyboard) focus go? (Lightning talk, June 4, 2025)
