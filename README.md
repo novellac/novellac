@@ -1,5 +1,5 @@
 # Welcome!
-Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, sparkly interfaces accessible to all! I work mostly with Vue and plain Javascript.
+Hi I'm Novella (she/her). I'm a senior frontend software engineer who enjoys making the web pretty and functional for all. I can often be found working in or creating cross-disciplinary teams, writing reusable frontend code, and hitting the tab key just to see what will happen.
 
 ## A little about me
 - 💼 See [my resume](https://shiny.computer)
@@ -9,7 +9,7 @@ Hi I'm Novella (she/her). I'm a frontend developer working to make joyful, spark
 - 📫 DM me at [novelladev.bsky.social](novelladev.bsky.social)
 
 ## Where did my (keyboard) focus go? (Lightning talk, June 4, 2025)
-A lightning talk for anyone who's ever struggled with which form field they're typing into. Learn what keyboard focus is, when and why to handle it (and when you don't need to), and who it benefits.
+A lightning talk for anyone who's ever struggled with which form field they're typing into. Learn what keyboard focus is, when and why to handle it (and when you don't need to), and who benefits.
 - [Slides](https://shiny.computer/gusto) (Google slides)
 - [Description and speaker bio](https://shiny.computer/gusto-bio-descrip) (Google docs)
 
